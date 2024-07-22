@@ -34,6 +34,6 @@ Ask questions to our panelists  <a href="https://forms.gle/Caxz8EuCzp7mX9Y77">he
 <br>
 
 <div style="text-align: center;">
-  <img src="/assets/img/todo-v2.png" alt="" />
+  <img src="/assets/img/logo3.webp" alt="" />
   <p></p>
 </div>
