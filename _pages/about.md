@@ -2,7 +2,7 @@
 layout: workshop
 title: About
 permalink: /
-subtitle: Workshop at the Conference on Neural Information Processing Systems (NeurIPS) 2023
+subtitle: Workshop at the Conference on Neural Information Processing Systems (NeurIPS) 2024
 
 profile:
   align: right
