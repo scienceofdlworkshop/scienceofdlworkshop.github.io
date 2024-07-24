@@ -8,8 +8,8 @@ nav_order: 2
 ---
 **December 14th or 15th, 2024. Exact date to be specified soon.**
 
-Ask questions to our panelists  <a href="https://forms.gle/Caxz8EuCzp7mX9Y77">here</a>
-    
+Submit questions for our panelists <a href="https://forms.gle/Caxz8EuCzp7mX9Y77">here</a>.
+
 
 | **Time (PST)** | **Event** |
 | :------:   | :------- |
@@ -27,9 +27,8 @@ Ask questions to our panelists  <a href="https://forms.gle/Caxz8EuCzp7mX9Y77">he
 | 15:00 - 15:30 | **Keynote Talk** - Tom Goldstein|
 | 15:30 - 16:30 | **Panel Discussion**: Terry Sejnowski, Lenka Zdeborová, Andrew Gordon Wilson, Misha Belkin, Irina Rish, Eero Simoncelli |
 | 16:30 - 17:00 | **Winners Announcement + Closing Remarks** |
-| 17:00 - 18:00 | **Poster Session 2** | 
+| 17:00 - 18:00 | **Poster Session 2** |
 {: .table}
 {: .table-striped}
 
 <br>
-
