@@ -1,6 +1,13 @@
-# Debunking Challenge at SciForDL @ NeurIPS 2024
+---
+layout: challenge
+title: Debunking Challenge
+permalink: /challenge/
+description: Debunking Challenge at SciForDL @ NeurIPS 2024
+nav: true
+nav_order: 4
+---
 
-## Challenging misconceptions in machine learning
+<br>
 
 We are hosting a challenge to interrogate commonly-held beliefs in the deep learning community. 
 Relevant submissions will challenge machine learning theory, well-known experimental results, or common assumptions / folk-knowledge. 
