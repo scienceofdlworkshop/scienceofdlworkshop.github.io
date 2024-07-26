@@ -23,6 +23,7 @@ We encourage submissions that further our understanding of deep learning using t
 * validate or falsify hypotheses,
 * make empirical observations to inform theoretical models,
 * evidence new phenomena or empirical regularities (e.g., scaling laws).
+
 We invite studies that employ this method of investigation in any field of application, including but not limited to:
 * in-context learning in transformers,
 * generalization properties of generative models,
