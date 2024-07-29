@@ -33,7 +33,7 @@ We provide some (non-exhaustive) examples of work that would be strong submissio
 
 * **Beliefs motivated by theoretical results**: For example, [Zhang et al](https://arxiv.org/abs/1611.03530) challenged theories suggesting that DL models generalize because they cannot fit random labels.
 
-* **Common assumptions or folk-wisdom**: [Engels et al](https://arxiv.org/abs/2405.14860) challenged the conjecture that the features in language model representations are entirely linear.
+* **Common assumptions or folk-wisdom**: [Engels et al](https://arxiv.org/abs/2405.14860) challenged the conjecture that the features in language model representations are 1-d subspaces.
 
 ### Judging and prizes
 
