@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Workshop on
+first_name:
 middle_name:
 last_name: Scientific Methods for Understanding Deep Learning
 email: scienceofdl.workshop.2024@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+
 footer_text: >
 
 keywords:  # add your own keywords or leave empty
@@ -112,7 +112,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name:  # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description:
-permalink: 
+permalink:
 
 # Pagination
 pagination:
@@ -236,7 +236,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: 
+  bibliography:
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -246,8 +246,8 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  details_dir: 
-  
+  details_dir:
+
   details_layout: bibtex.html
   details_link: Details
 
