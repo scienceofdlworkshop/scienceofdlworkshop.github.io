@@ -19,23 +19,23 @@ Such results can then be used to ground theoretical models in empirical observat
 
 We invite researchers from machine learning and related fields to submit their latest work on the science of deep learning to the workshop. Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
 
-We encourage submissions that further our understanding of deep learning using the scientific method. Works that are a good fit for the workshop use numerical experiments on real-world datasets in order to:
-* validate or falsify hypotheses,
-* make empirical observations to inform theoretical models,
+We encourage submissions that further our understanding of deep learning using the scientific method. Works that are a good fit for the workshop use empirical experiments on real-world datasets in order to:
+* validate or falsify hypotheses about how deep nets work,
+* make empirical observations to inform or inspire theoretical models,
 * evidence new phenomena or empirical regularities (e.g., scaling laws).
 
-We invite studies that employ this method of investigation in any field of application, including but not limited to:
+We invite studies that employ scientific method of investigation in any field of application, including but not limited to:
 * in-context learning in transformers,
 * generalization properties of generative models,
 * inductive biases of learning algorithms,
 * (mechanistic) interpretability,
 * empirical studies of loss landscapes, training dynamics, and learned weights and representations.
 
-We explicitly welcome submissions that fall outside standard acceptance criteria, such as improving state-of-the-art performance or proving rigorous theorems, yet have a high impact potential.
+We explicitly welcome submissions that fall outside standard acceptance criteria, such as improving state-of-the-art performance or proving rigorous theorems, yet have a high impact potential by shedding light on deep net mechanisms.
 
 ## Challenge
 
-Authors can opt-in to be included to our **Debunking Challenge**, a competition aiming to interrogate commonly-held beliefs in the deep learning community. **Authors may add an additional page to their submission to submit to the challenge**. Prizes will be awarded to the top three submissions. For full details and submission criteria please visit [our Challenge page here](/challenge/).
+Authors can opt-in to be included to our **Debunking Challenge**, a competition aiming to interrogate commonly-held beliefs in the deep learning community. **Authors may add an additional page to their submission to submit to the challenge**. Prizes will be awarded to the top submission. For full details and submission criteria please visit [our Challenge page here](/challenge/).
 
 ## Important Dates
 
@@ -49,7 +49,7 @@ To ensure your submission is considered, please adhere to the following guidelin
 
 * **Formatting Instructions**: There is no page limit, but reviewers are not required to read beyond the first 4 pages. Please use the [NeurIPS LaTeX style files template](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip).
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized**. Submissions that breach anonymity will be desk-rejected.
-*   **Dual Submission Policy**: If the submission was accepted at prior conferences, journal, or workshops (including Neurips 2024), it should be extended to be considered for acceptance at our workshop. Papers that are currently under review are welcome to be submitted to our workshop.
+*   **Dual Submission Policy**: If the submission was accepted at prior conferences, journal, or workshops (including Neurips 2024), it should be extended to new results to be considered for acceptance at our workshop. Papers that are currently under review are welcome to be submitted to our workshop.
 *   If your paper is accepted it will not appear in any proceedings, journal, or book. We will post the list of accepted papers on the workshop website.
 
 To submit your work, please visit _openreview link coming soon!_
