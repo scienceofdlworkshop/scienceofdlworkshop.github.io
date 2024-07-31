@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name:
+title: SciForDL # the website title (if blank, full name will be used instead)
+first_name: Workshop on
 middle_name:
 last_name: Scientific Methods for Understanding Deep Learning
 email: scienceofdl.workshop.2024@gmail.com
