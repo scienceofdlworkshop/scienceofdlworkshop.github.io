@@ -52,7 +52,7 @@ To ensure your submission is considered, please adhere to the following guidelin
 * **Dual Submission Policy**: If the submission was accepted at prior conferences, journal, or workshops (including Neurips 2024), it should be extended and include new results to be considered for acceptance. Papers that are currently under review are welcome to be submitted.
 * There will be no proceedings for the venue. We will post the list of accepted papers on the workshop website. In addition, accepted submissions will be made public on OpenReview.
 
-To submit your work, please visit _openreview link coming soon!_
+_OpenReview link coming soon!_
 
 
 ## Questions
