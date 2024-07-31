@@ -35,7 +35,7 @@ We explicitly welcome submissions that fall outside standard acceptance criteria
 
 ## Challenge
 
-_Coming soon!_
+Authors can opt-in to be included to our **Debunking Challenge**, a competition aiming to interrogate commonly-held beliefs in the deep learning community. **Authors may add an additional page to their submission to submit to the challenge**. Prizes will be awarded to the top three submissions. For full details and submission criteria please visit [our Challenge page here](/challenge/).
 
 ## Important Dates
 
