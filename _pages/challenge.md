@@ -2,12 +2,10 @@
 layout: challenge
 title: Debunking Challenge
 permalink: /challenge/
-description: Debunking Challenge at SciForDL @ NeurIPS 2024
+description:
 nav: true
 nav_order: 4
 ---
-
-<br>
 
 We are hosting a challenge to interrogate commonly-held beliefs in the deep learning community.
 Relevant submissions will challenge machine learning theory, common assumptions and/or folk knowledge.
