@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-**December 14th or 15th, 2024. Exact date to be specified soon.**
+**December 15th, 2024**
 
 Submit questions for our panelists <a href="https://forms.gle/Caxz8EuCzp7mX9Y77">here</a>.
 
