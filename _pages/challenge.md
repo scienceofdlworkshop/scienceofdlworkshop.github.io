@@ -40,4 +40,4 @@ Both for nomination and the final selection, papers will be evaluated according 
 * the **pervasiveness of the beliefs they challenge**, and
 * the extent to which the work compellingly **contributes to our understanding of those beliefs**.
 
-A panel of three organizers will select the paper which best matches these criteria to win a prize, of value $500-1000. The authors will be invited to give a lightning talk about their work.
+A panel of three organizers will select the paper which best matches these criteria to win a prize, of value $1000. The authors will be invited to give a lightning talk about their work.
