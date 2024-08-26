@@ -21,7 +21,7 @@ The aim of this workshop is to promote a complementary approach to further our u
 of deep learning, through the lens of the scientific method. This approach uses carefully designed
 experiments in order to answer precise questions about how and why deep learning works. The
 scientific method has been used successfully in the past to validate or falsify hypotheses, (e.g., deep
-networks generalize because they cannot fit random labels (Zhang et al)[https://openreview.net/pdf?id=Sy8gdB9xx]), challenge common assumptions (e.g.,
+networks generalize because they cannot fit random labels [Zhang et al](https://openreview.net/pdf?id=Sy8gdB9xx), challenge common assumptions (e.g.,
 deep networks are robust to imperceptible input perturbations [9]), or reveal empirical regularities
 (e.g., discovering scaling laws [7]). These well-known examples all crucially rely on controlled
 experiments, and constitute an important part of our current understanding of deep learning.\\
