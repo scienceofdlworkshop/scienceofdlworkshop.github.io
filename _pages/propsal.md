@@ -32,8 +32,8 @@ Although these works aimed neither to improve the state-of-the-art nor to prove 
 have had a profound impact, spurring many follow-up theoretical and applied works. Indeed, such
 results serve the theory of deep learning by grounding it with empirical observations (e.g., training
 occurs on the edge of stability [[Cohen et al](https://openreview.net/pdf?id=jh-rTtvkGeM)]) or formulating conjectures (e.g., the lottery ticket hypothesis
-[[Frankle \& Carbin](https://openreview.net/pdf?id=rJl-b3RcF7)]). Simultaneously, they lead to practical improvements by informing engineering decisions, e.g.,
-compute-optimal scaling [[Hoffmann et al](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf)], and spurring new research directions, e.g., adversarial robustness [[Gu \& Rigazio](https://arxiv.org/pdf/1412.5068)].
+[[Frankle & Carbin](https://openreview.net/pdf?id=rJl-b3RcF7)]). Simultaneously, they lead to practical improvements by informing engineering decisions, e.g.,
+compute-optimal scaling [[Hoffmann et al](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf)], and spurring new research directions, e.g., adversarial robustness [[Gu & Rigazio](https://arxiv.org/pdf/1412.5068)].
 Thus, we believe, that this workshop will be of interest to both theoretical and applied communities.
 
 Despite their significant impact, these studies have been largely underexplored and underappreciated. 
