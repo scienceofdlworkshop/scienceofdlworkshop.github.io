@@ -47,8 +47,8 @@ Authors can opt-in to be included to our **Debunking Challenge**, a competition 
 
 To ensure your submission is considered, please adhere to the following guidelines:
 
-* **Formatting Instructions**: Submissions are limited to 4 pages. Please use the [this LaTeX style files template](/assets/files/styles.zip).
-* **Reviews**: The review process will be double-blind. All **submissions must be anonymized**. Submissions that breach anonymity will be desk-rejected.
+* **Formatting Instructions**: Submissions are limited to 4 pages. **Please use [this LaTeX style files template](/assets/files/styles.zip)**.
+* **Reviews**: The review process will be double-blind. **All submissions must be anonymized**. Submissions that breach anonymity will be desk-rejected.
 * **Dual Submission Policy**: If the submission was accepted at prior conferences, journal, or workshops (including Neurips 2024), it should be extended and include new results to be considered for acceptance. Papers that are currently under review are welcome to be submitted.
 * There will be no proceedings for the venue. We will post the list of accepted papers on the workshop website. In addition, accepted submissions will be made public on OpenReview.
 * Submissions will be reviewed on OpenReview: [submission page](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SciForDL).
