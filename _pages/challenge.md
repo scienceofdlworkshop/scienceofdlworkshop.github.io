@@ -15,7 +15,9 @@ See below for challenge details and submission criteria.
 
 ### Submission criteria
 
-To enter the competition, include an additional page to your pdf submission that answers the following questions. *This additional page will only be included in the public workshop paper at the authors' discretion.*
+To enter the competition, include an additional page to your pdf submission that answers the following questions.
+Please follow the format in the [style files template](/assets/files/styles.zip) to facilitate reviewing.
+*This additional page will only be included in the public workshop paper at the authors' discretion.*
 
 1. *What commonly-held position or belief are you challenging?* Provide a short summary of the body of work challenged by your results. Good summaries should outline the state of the literature and be reasonable, e.g. the people working in this area will agree with your overview. You can cite sources beside published work (e.g., blogs, talks, etc).
 
