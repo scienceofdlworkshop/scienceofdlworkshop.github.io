@@ -25,7 +25,7 @@ Submit questions for our panelists <a href="https://forms.gle/Caxz8EuCzp7mX9Y77"
 | 14:00 - 14:30 | **Keynote Talk** - Yamini Bansal|
 | 14:30 - 15:00 | **Keynote Talk** - Tom Goldstein|
 | 15:00 - 15:30 | **Coffee Break** - Random Coffee |
-| 15:30 - 16:30 | **Panel Discussion**: Terry Sejnowski, Andrew Gordon Wilson, Misha Belkin, Irina Rish, Eero Simoncelli |
+| 15:30 - 16:30 | **Panel Discussion**: Yasaman Bahri, Terry Sejnowski, Andrew Gordon Wilson, Misha Belkin, Irina Rish, Eero Simoncelli |
 | 16:30 - 17:00 | **Winners Announcement + Closing Remarks** |
 | 17:00 - 18:00 | **Poster Session 2** |
 {: .table}
