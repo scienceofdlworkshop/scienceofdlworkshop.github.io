@@ -17,17 +17,17 @@ Submit questions for our panelists <a href="https://forms.gle/Caxz8EuCzp7mX9Y77"
 | 9:00 - 9:30 | **Keynote Talk** - Zico Kolter |
 | 9:30 - 10:00 | **Keynote Talk** - Surya Ganguli|
 | 10:00 - 10:30 | **Keynote Talk** - Hanie Sedghi|
-| 10:30 - 11:00 | **Coffee Break** - Random Coffee |
-| 11:00 - 11:30 | **Contributed Talks** |
-| 11:30 - 12:30 | **Poster Session 1** |
-| 12:30 - 13:30 | **Lunch Break** |
-| 13:30 - 14:00 | **Contributed Talks** |
-| 14:00 - 14:30 | **Keynote Talk** - Yamini Bansal|
-| 14:30 - 15:00 | **Keynote Talk** - Tom Goldstein|
-| 15:00 - 15:30 | **Coffee Break** - Random Coffee |
-| 15:30 - 16:30 | **Panel Discussion**: Yasaman Bahri, Andrew Gordon Wilson, Misha Belkin, Irina Rish, Eero Simoncelli |
-| 16:30 - 17:00 | **Winners Announcement + Closing Remarks** |
-| 17:00 - 18:00 | **Poster Session 2** |
+| 10:30 - 10:50 | **Coffee Break** - Coffee break |
+| 10:50 - 11:20 | **Contributed Talks** |
+| 11:20 - 12:20 | **Poster Session 1** |
+| 12:20 - 13:20 | **Lunch Break** |
+| 13:20 - 13:50 | **Contributed Talks** |
+| 13:50 - 14:20 | **Keynote Talk** - Yamini Bansal|
+| 14:20 - 14:50 | **Keynote Talk** - Tom Goldstein|
+| 14:50 - 15:10 | **Coffee Break** - Coffee break |
+| 15:10 - 16:10 | **Panel Discussion**: Yasaman Bahri, Andrew Gordon Wilson, Misha Belkin, Irina Rish, Eero Simoncelli |
+| 16:10 - 16:30 | **Winners Announcement + Closing Remarks** |
+| 16:30 - 17:30 | **Poster Session 2** |
 {: .table}
 {: .table-striped}
 
