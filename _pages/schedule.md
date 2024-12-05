@@ -10,6 +10,8 @@ nav_order: 2
 
 Submit questions for our panelists <a href="https://forms.gle/Caxz8EuCzp7mX9Y77">here</a>.
 
+See the full schedule on the <a href="https://neurips.cc/virtual/2024/workshop/84741">NeurIPS website</a>.
+
 
 | **Time (PST)** | **Event** |
 | :------:   | :------- |
@@ -22,7 +24,7 @@ Submit questions for our panelists <a href="https://forms.gle/Caxz8EuCzp7mX9Y77"
 | 11:20 - 12:20 | **Poster Session 1** |
 | 12:20 - 13:20 | **Lunch Break** |
 | 13:20 - 13:50 | **Contributed Talks** |
-| 13:50 - 14:20 | **Keynote Talk** - Yamini Bansal |
+| 13:50 - 14:20 | **Keynote Talk** - Misha Belkin |
 | 14:20 - 14:50 | **Keynote Talk** - Zico Kolter |
 | 14:50 - 15:10 | **Coffee Break** - Coffee break |
 | 15:10 - 16:10 | **Panel Discussion**: Yasaman Bahri, Andrew Gordon Wilson, Misha Belkin, Eero Simoncelli |
