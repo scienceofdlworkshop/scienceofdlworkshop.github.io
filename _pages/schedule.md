@@ -24,8 +24,8 @@ See the full schedule on the <a href="https://neurips.cc/virtual/2024/workshop/8
 | 11:20 - 12:20 | **Poster Session 1** |
 | 12:20 - 13:20 | **Lunch Break** |
 | 13:20 - 13:50 | **Contributed Talks** |
-| 13:50 - 14:20 | **Keynote Talk** - Misha Belkin |
-| 14:20 - 14:50 | **Keynote Talk** - Zico Kolter |
+| 13:50 - 14:20 | **Keynote Talk** - Zico Kolter |
+| 14:20 - 14:50 | **Keynote Talk** - Misha Belkin |
 | 14:50 - 15:10 | **Coffee Break** - Coffee break |
 | 15:10 - 16:10 | **Panel Discussion**: Yasaman Bahri, Andrew Gordon Wilson, Misha Belkin, Eero Simoncelli |
 | 16:10 - 16:30 | **Winners Announcement + Closing Remarks** |
