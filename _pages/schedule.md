@@ -29,7 +29,7 @@ See the full schedule on the <a href="https://neurips.cc/virtual/2024/workshop/8
 | 13:50 - 14:20 | **Keynote Talk** - Zico Kolter: Is this really science? A lukewarm defense of alchemy |
 | 14:20 - 14:50 | **Keynote Talk** - Misha Belkin: Building on observations: some personal experience |
 | 14:50 - 15:10 | **Coffee Break** - Coffee break |
-| 15:10 - 16:10 | **Panel Discussion**: Yasaman Bahri, Andrew Gordon Wilson, Misha Belkin, Eero Simoncelli, Tom Goldstein |
+| 15:10 - 16:10 | **Panel Discussion**: Yasaman Bahri, Andrew Gordon Wilson, Misha Belkin, Eero Simoncelli, Surya Ganguli |
 | 16:10 - 16:30 | **Winners Announcement + Closing Remarks** |
 | 16:30 - 17:30 | **Poster Session 2** |
 {: .table}
