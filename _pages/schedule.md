@@ -8,7 +8,7 @@ nav_order: 2
 ---
 **December 15th, 2024**
 
-Submit questions for our panelists <a href="https://forms.gle/Caxz8EuCzp7mX9Y77">here</a>.
+<!-- Submit questions for our panelists <a href="https://forms.gle/Caxz8EuCzp7mX9Y77">here</a>. -->
 
 See the full schedule on the <a href="https://neurips.cc/virtual/2024/workshop/84741">NeurIPS website</a>.
 
