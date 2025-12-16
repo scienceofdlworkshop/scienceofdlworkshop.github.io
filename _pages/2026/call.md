@@ -32,10 +32,9 @@ We invite submissions that advance our scientific understanding of deep learning
 ### Important Dates
 
 - **Submission deadline**: TBD
-- **Notification**: TBD  
+- **Notification**: TBD
 - **Workshop date**: TBD (during ICLR 2026)
 
 ### Questions?
 
-For any questions, please contact us at: [scienceofdl.workshop.2024@gmail.com](mailto:scienceofdl.workshop.2024@gmail.com)
-
+For any questions, please contact us at: [scienceofdl.workshop@gmail.com](mailto:scienceofdl.workshop@gmail.com)
