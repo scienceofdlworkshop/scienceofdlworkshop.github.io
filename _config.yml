@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: SciForDL'24 # the website title (if blank, full name will be used instead)
+title: SciForDL # the website title (if blank, full name will be used instead)
 first_name: Workshop on
 middle_name:
 last_name: Scientific Methods for Understanding Deep Learning

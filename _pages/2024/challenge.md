@@ -1,11 +1,11 @@
 ---
 layout: challenge
 title: Debunking Challenge
-permalink: /challenge/
+permalink: /2024/challenge/
 description:
-nav: false
+edition: 2024
+nav: true
 nav_order: 4
-redirect_to: /2024/challenge/
 ---
 
 We are hosting a challenge to interrogate commonly-held beliefs in the deep learning community.

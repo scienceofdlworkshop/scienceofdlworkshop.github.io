@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /submissions/
+permalink: /2024/submissions/
 title: Call for Papers
 description:
-nav: false
-nav_order: 3
-redirect_to: /2024/submissions/
+edition: 2024
+nav: true
+nav_order: 2
 ---
 
 Over the last decade, deep learning has brought about astonishing improvements in computer vision, signal processing, language modeling and beyond.

@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /schedule/
+permalink: /2024/schedule/
 title: Schedule
 description:
-nav: false
-nav_order: 2
-redirect_to: /2024/schedule/
+edition: 2024
+nav: true
+nav_order: 3
 ---
 **December 15th, 2024**
 

@@ -1,11 +1,11 @@
 ---
 layout: challenge
 title: Workshop description
-permalink: /proposal/
+permalink: /2024/proposal/
 description:
-nav: false
-nav_order: 4
-redirect_to: /2026/proposal/
+edition: 2024
+nav: true
+nav_order: 5
 ---
 
 Over the last decade, deep learning has brought about astonishing improvements in computer vision,

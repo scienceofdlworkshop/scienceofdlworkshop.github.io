@@ -1,13 +1,14 @@
 ---
 layout: challenge
 title: Workshop description
-permalink: /proposal/
+permalink: /2026/proposal/
 description:
-nav: false
-nav_order: 4
-redirect_to: /2026/proposal/
+edition: 2026
+nav: true
+nav_order: 5
 ---
 
+<!-- 
 Over the last decade, deep learning has brought about astonishing improvements in computer vision,
 signal processing, language modeling and beyond. This unprecedented success is due to a huge
 collective endeavor to build large-scale models. As a result, the remarkable performance of these
@@ -48,4 +49,4 @@ machine learning conferences.
 The scientific study of deep learning is currently scattered across several subfields, including incontext learning in transformers, generalization properties of generative models, inductive biases
 of learning algorithms, (mechanistic) interpretability, empirical studies of loss landscapes, training
 dynamics, and learned weights and representations. This workshop will facilitate communication and
-collaboration across subfields by building a community centered around a common approach.
+collaboration across subfields by building a community centered around a common approach. -->
