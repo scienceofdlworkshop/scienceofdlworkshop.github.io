@@ -1,0 +1,29 @@
+# Dockerfile for ARM64 (Apple Silicon) compatibility
+FROM ruby:3.1-alpine
+
+# Install dependencies
+RUN apk add --no-cache \
+    build-base \
+    gcc \
+    cmake \
+    git \
+    imagemagick-dev \
+    imagemagick \
+    libxml2-dev \
+    libxslt-dev \
+    nodejs \
+    npm
+
+WORKDIR /srv/jekyll
+
+# Copy Gemfile
+COPY Gemfile* ./
+
+# Install gems (excluding mini_racer which has compatibility issues)
+RUN bundle config set --local without 'mini_racer' && \
+    gem install jekyll bundler && \
+    bundle install
+
+EXPOSE 8080
+
+CMD ["bundle", "exec", "jekyll", "serve", "--watch", "--port=8080", "--host=0.0.0.0", "--force_polling"]
