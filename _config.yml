@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: SciForDL'24 # the website title (if blank, full name will be used instead)
+title: SciForDL # the website title (if blank, full name will be used instead)
 first_name: Workshop on
 middle_name:
 last_name: Scientific Methods for Understanding Deep Learning
-email: scienceofdl.workshop.2024@gmail.com
+email: scienceofdl.workshop@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
@@ -126,8 +126,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
