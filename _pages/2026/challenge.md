@@ -14,16 +14,13 @@ We are hosting a challenge to encourage work on **employing scientific understan
 Details and submission criteria are provided below.
 
 ### Submission Criteria
-To enter the competition, include one additional page in your PDF submission addressing the questions below. Please follow the format provided in the workshop style files to facilitate reviewing. This page will be included in the public version of the workshop paper only at the authors’ discretion.
+To enter the competition, include one additional page in your PDF submission addressing the questions below. Please follow the format provided in the workshop [style files](/assets/files/styles2026.zip) to facilitate reviewing. This page will be included in the public version of the workshop paper only at the authors’ discretion.
 
-#### 1. What model are you targeting?
-Provide a summary of the problem the deep net model is designed to solve. Good summaries should outline the state of the literature, provide an overview that domain experts would consider reasonable, and cite relevant sources.
+- What model are you targeting? Provide a summary of the problem the deep net model is designed to solve. Good summaries should outline the state of the literature, provide an overview that domain experts would consider reasonable, and cite relevant sources.
 
-#### 2. How do your results contribute—or could potentially contribute—to understanding these models?
-What aspects of the models become better understood thanks to your work?
+- How do your results contribute—or could potentially contribute—to understanding these models? What aspects of the models become better understood thanks to your work?
 
-#### 3. How do you expect your submission to influence future work?
-Propose ways in which your insights, findings, or methodologies could shape subsequent research directions, model design choices, or scientific applications.
+- How do you expect your submission to influence future work? Propose ways in which your insights, findings, or methodologies could shape subsequent research directions, model design choices, or scientific applications.
 
 ### Examples of Relevant Submissions
 Below are some examples of work that leverage scientific understanding to design better deep models:
