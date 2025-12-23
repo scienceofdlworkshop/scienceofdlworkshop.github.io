@@ -8,7 +8,6 @@ nav: true
 nav_order: 4
 ---
 
-## Description
 
 We are hosting a challenge to encourage work on **employing scientific understanding of deep models to improve their performances**. Relevant submissions will **demonstrate or concretely suggest how scientific understanding can improve deep models**. Participants may enter the competition by including one additional page in their workshop paper that frames their work in the context of this challenge. The winning entry will be invited to present a talk at the workshop.
 Details and submission criteria are provided below.
@@ -16,11 +15,11 @@ Details and submission criteria are provided below.
 ### Submission Criteria
 To enter the competition, include one additional page in your PDF submission addressing the questions below. Please follow the format provided in the workshop [style files](/assets/files/styles2026.zip) to facilitate reviewing. This page will be included in the public version of the workshop paper only at the authors’ discretion.
 
-- What model are you targeting? Provide a summary of the problem the deep net model is designed to solve. Good summaries should outline the state of the literature, provide an overview that domain experts would consider reasonable, and cite relevant sources.
+- **What model are you targeting?** Provide a summary of the problem the deep net model is designed to solve. Good summaries should outline the state of the literature, provide an overview that domain experts would consider reasonable, and cite relevant sources.
 
-- How do your results contribute—or could potentially contribute—to understanding these models? What aspects of the models become better understood thanks to your work?
+- **How do your results contribute—or could potentially contribute—to understanding these models?** What aspects of the models become better understood thanks to your work?
 
-- How do you expect your submission to influence future work? Propose ways in which your insights, findings, or methodologies could shape subsequent research directions, model design choices, or scientific applications.
+- **How do you expect your submission to influence future work?** Propose ways in which your insights, findings, or methodologies could shape subsequent research directions, model design choices, or scientific applications.
 
 ### Examples of Relevant Submissions
 Below are some examples of work that leverage scientific understanding to design better deep models:
@@ -37,4 +36,4 @@ For both nomination and final selection, papers will be evaluated based on:
 - The extent to which the work could contribute to improved understanding, design, or performance of such models.
 
 
-A panel of three area chairs will select the paper that best meets these criteria. The authors of the selected paper will be invited to give a lightning talk (~10 min) about their work at the workshop.
+A panel of three area chairs will select the paper that best meets these criteria. **The authors of the selected paper will be invited to give a lightning talk (~10 min) about their work at the workshop.**
