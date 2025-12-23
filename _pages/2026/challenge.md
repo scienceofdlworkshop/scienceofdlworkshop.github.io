@@ -1,6 +1,6 @@
 ---
 layout: challenge
-title: Novel Phenomenon Challenge
+title: Challenge: Science of DL improvement
 permalink: /2026/challenge/
 description:
 edition: 2026
@@ -8,7 +8,7 @@ nav: true
 nav_order: 4
 ---
 
-# Challenge Description
+## Description
 
 We are hosting a challenge to encourage work on **employing scientific understanding of deep models to improve their performances**. Relevant submissions will **demonstrate or concretely suggest how scientific understanding can improve deep models**. Participants may enter the competition by including one additional page in their workshop paper that frames their work in the context of this challenge. The winning entry will be invited to present a talk at the workshop.
 Details and submission criteria are provided below.
