@@ -24,9 +24,9 @@ To enter the competition, include one additional page in your PDF submission add
 ### Examples of Relevant Submissions
 Below are some examples of work that leverage scientific understanding to design better deep models:
 
-- [*End-to-end optimized image compression (ICLR2017)*](https://arxiv.org/pdf/1611.01704): uses local gain-control normalization inspired by biological vision systems to design a better image compression deep model
+- [End-to-end optimized image compression (ICLR2017)](https://arxiv.org/pdf/1611.01704): uses local gain-control normalization inspired by biological vision systems to design a better image compression deep model
 
-- [*DISCO: Learning to DISCover an Evolution Operator for Multi-Physics-Agnostic Prediction (ICML2025)*](https://arxiv.org/pdf/2504.19496): With the scientific insight that low-dimensional PDE data can be evolved under a well-defined temporal operator, DISCO is trained to first discover this operator from data and then integrate it, yielding a predictor with improved accuracy and generalization compared to black-box architectures.
+- [DISCO: Learning to DISCover an Evolution Operator for Multi-Physics-Agnostic Prediction (ICML2025)](https://arxiv.org/pdf/2504.19496): With the scientific insight that low-dimensional PDE data can be evolved under a well-defined temporal operator, DISCO is trained to first discover this operator from data and then integrate it, yielding a predictor with improved accuracy and generalization compared to black-box architectures.
 Workshop submissions do not need to necessarily demonstrate results if they describe a clear and concrete description of how they can achieve that. They may address any topic that helps illuminate the mechanisms, principles, or limitations of deep neural networks.
 
 ### Judging
