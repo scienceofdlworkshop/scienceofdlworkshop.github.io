@@ -20,7 +20,7 @@ To enter the competition, include one additional page in your PDF submission add
 Provide a summary of the problem the deep net model is designed to solve. Good summaries should outline the state of the literature, provide an overview that domain experts would consider reasonable, and cite relevant sources.
 
 #### 2. How do your results contribute—or could potentially contribute—to understanding these models?
-What aspects of the models become better understood thanks to your work? 
+What aspects of the models become better understood thanks to your work?
 
 #### 3. How do you expect your submission to influence future work?
 Propose ways in which your insights, findings, or methodologies could shape subsequent research directions, model design choices, or scientific applications.
@@ -33,7 +33,7 @@ Below are some examples of work that leverage scientific understanding to design
 - [*DISCO: Learning to DISCover an Evolution Operator for Multi-Physics-Agnostic Prediction (ICML2025)*](https://arxiv.org/pdf/2504.19496): With the scientific insight that low-dimensional PDE data can be evolved under a well-defined temporal operator, DISCO is trained to first discover this operator from data and then integrate it, yielding a predictor with improved accuracy and generalization compared to black-box architectures.
 Workshop submissions do not need to necessarily demonstrate results if they describe a clear and concrete description of how they can achieve that. They may address any topic that helps illuminate the mechanisms, principles, or limitations of deep neural networks.
 
-### Judging and Prizes
+### Judging
 For both nomination and final selection, papers will be evaluated based on:
 
 - The significance of the models of study.
@@ -41,4 +41,3 @@ For both nomination and final selection, papers will be evaluated based on:
 
 
 A panel of three area chairs will select the paper that best meets these criteria. The authors of the selected paper will be invited to give a lightning talk (~10 min) about their work at the workshop.
-

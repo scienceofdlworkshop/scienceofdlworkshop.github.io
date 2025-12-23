@@ -47,9 +47,7 @@ We invite studies that employ the scientific method of investigation in any fiel
 
 ## Challenge
 
-TODO
-
-<!-- Authors can opt-in to be included to our **Debunking Challenge**, a competition aiming to interrogate commonly-held beliefs in the deep learning community. **Authors may add an additional page to their submission to submit to the challenge**. Prizes will be awarded to the top submission. For full details and submission criteria please visit [our Challenge page](/challenge/). -->
+Authors can opt-in to be included to our **Science of DL Improvement Challenge**, a competition aiming to demonstrate how scientific understanding can improve deep models. The authors of the best submission will be invited to give a lightning talk (~10 min) about their work at the workshop. For full details and submission criteria please visit [our Challenge page](/2026/challenge/).
 
 
 ### Important Dates
