@@ -1,6 +1,6 @@
 ---
 layout: challenge
-title: Challenge: Science of DL improvement
+title: "Challenge: Science of DL improvement"
 permalink: /2026/challenge/
 description:
 edition: 2026
