@@ -52,7 +52,7 @@ Authors can opt-in to be included to our **Science of DL Improvement Challenge**
 
 ### Important Dates
 
-- **Submission deadline**: January 30 ‘26 (Anywhere on Earth)
+- **Submission deadline**: February 4 ‘26 (Anywhere on Earth)
 - **Acceptance notification**: March 1 ‘26 (Anywhere on Earth)
 - **Workshop date**: April 26 or 27 ‘26
 
