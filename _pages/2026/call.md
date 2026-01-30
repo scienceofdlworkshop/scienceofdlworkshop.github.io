@@ -64,7 +64,7 @@ To ensure your submission is considered, please adhere to the following guidelin
 * **Reviews**: The review process will be double-blind. **All submissions must be anonymized**. Submissions that breach anonymity will be desk-rejected.
 * **Dual Submission Policy**: If the submission was accepted at prior conferences, journal, or workshops **(including ICLR 2026)**, it should be extended and include new results to be considered for acceptance.  Depending on space constraints, we might open a special _conference to workshop_ track for such submissions. Papers that are currently under review are however welcome to be submitted.
 * There will be no proceedings for the venue. Accepted submissions will be made public on OpenReview.
-* Submissions will be reviewed on OpenReview: submission page coming soon!
+* Submissions will be reviewed on OpenReview. **Submission link:** [https://openreview.net/group?id=ICLR.cc/2026/Workshop/Sci4DL](https://openreview.net/group?id=ICLR.cc/2026/Workshop/Sci4DL).
 
 ## Call for Reviewers
 
@@ -74,4 +74,4 @@ We are seeking reviewers with expertise in the scientific investigation of deep 
 
 ### Questions?
 
-For any questions, please contact us at: [scienceofdl.workshop@gmail.com](mailto:scienceofdl.workshop@gmail.com)
+For any questions, please contact us at: [scienceofdl.workshop@gmail.com](mailto:scienceofdl.workshop@gmail.com).
