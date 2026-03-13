@@ -7,7 +7,7 @@ edition: 2026
 nav: true
 nav_order: 3
 ---
-**Date TBD, 2026**
+**Date April 26, 2026**
 
 <!-- Submit questions for our panelists <a href="#">here</a>. -->
 
