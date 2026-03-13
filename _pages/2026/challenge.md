@@ -37,3 +37,9 @@ For both nomination and final selection, papers will be evaluated based on:
 
 
 A panel of three area chairs will select the paper that best meets these criteria. **The authors of the selected paper will be invited to give a lightning talk (~10 min) about their work at the workshop.**
+
+### Challenge Winner
+
+**[On the "Induction Bias" in Sequence Models](https://openreview.net/forum?id=mhjuCDZIQd)**
+*Reza Ebrahimi, Michaël Defferrard, Sunny Panchal, Roland Memisevic*
+

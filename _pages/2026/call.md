@@ -74,15 +74,15 @@ We are seeking reviewers with expertise in the scientific investigation of deep 
 
 We would like to thank the following reviewers for their exceptional contributions to the review process:
 
-<!-- - Selim Kuzucu
+- Mimansa Jaiswal
+- Selim Kuzucu
+- Dimitra Maoutsa
 - Laurent Mertens
-- Vivian White
+- Andrei Mircea Romascanu
 - Coenraad Mouton
 - Jasmina Nasufi
-- Andrei Mircea Romascanu
 - Berkan Ottlik
-- Mimansa Jaiswal
-- Dimitra Maoutsa -->
+- Vivian White
 
 
 

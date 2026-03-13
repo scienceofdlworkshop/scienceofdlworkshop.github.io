@@ -11,7 +11,7 @@ nav_order: 3
 
 <!-- Submit questions for our panelists <a href="#">here</a>. -->
 
-See the full schedule on the ICLR website (TBD).
+See the full schedule on the ICLR website.
 
 
 <style>
@@ -27,9 +27,9 @@ See the full schedule on the ICLR website (TBD).
 | 9:30 - 10:00 | **Invited talk 2** - [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU & Meta)|
 | 10:00 - 10:30 | **Invited talk 3** - [Jeremy Cohen](https://jmcohen.github.io/) (Flatiron Institute) |
 | 10:30 - 10:45 | **Coffee Break** - Mentorship program |
-| 10:45 - 11:00 | **Contributed Talk 1** - TBD |
-| 11:00 - 11:15 | **Contributed Talk 2** - TBD |
-| 11:15 - 11:30 | **Contributed Talk 3** - TBD |
+| 10:45 - 11:00 | **Contributed Talk 1** - [Zeroth-Order Optimization at the Edge of Stability](https://openreview.net/forum?id=InkMd89Pju) |
+| 11:00 - 11:15 | **Contributed Talk 2** - [Less Data, Faster Training: sampling bias from small dataset can speed up training](https://openreview.net/forum?id=LCRVaBnEiL) |
+| 11:15 - 11:30 | **Contributed Talk 3** - [Optimal scaling laws in learning hierarchical multi-index models](https://openreview.net/forum?id=Ks5gGVI9HO) |
 | 11:30 - 12:30 | **Poster Session 1** |
 | 12:30 - 13:30 | **Lunch Break** |
 | 13:30 - 14:00 | **Invited talk 4** - [Richard Baraniuk](https://richb.rice.edu/) (Rice University & OpenStax) |
