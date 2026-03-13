@@ -70,6 +70,22 @@ To ensure your submission is considered, please adhere to the following guidelin
 
 We are seeking reviewers with expertise in the scientific investigation of deep networks to help us evaluate submissions. If you are interested in reviewing, please fill out this [form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSeQWuGjkIWDVRdP8VxLKKHR8fVq6bi2YAd9wKjuDHI0Dy8jqA/viewform?usp=dialog). **To ensure a high-quality review process, we have reserved monetary awards for outstanding reviewers.**
 
+### Outstanding Reviewers
+
+We would like to thank the following reviewers for their exceptional contributions to the review process:
+
+<!-- - Selim Kuzucu
+- Laurent Mertens
+- Vivian White
+- Coenraad Mouton
+- Jasmina Nasufi
+- Andrei Mircea Romascanu
+- Berkan Ottlik
+- Mimansa Jaiswal
+- Dimitra Maoutsa -->
+
+
+
 <!-- To apply for financial assistance fill out this [form](https://forms.gle/mANcM9ZkS7q7BCof7). -->
 
 ### Questions?
