@@ -24,7 +24,7 @@ See also the full schedule on the [ICLR website](https://iclr.cc/virtual/2026/wo
 | **Time (BRT)** | **Event** |
 | :------:   | :------- |
 | 9:00 - 9:30 | **Invited talk 1** - [Jeremy Cohen](https://jmcohen.github.io/) (Flatiron Institute) : *How does gradient descent work?* |
-| 9:30 - 10:00 | **Invited talk 2** - [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU & Meta) |
+| 9:30 - 10:00 | **Invited talk 2** - [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU & Meta) : *Some Insights into LLM Reasoning* |
 | 10:00 - 10:30 | **Invited talk 3** - [David Bau](https://baulab.info/) (Northeastern University) : *Reading Science Back Out of AI* |
 | 10:30 - 11:00 | **Coffee Break** |
 | 11:00 - 11:15 | **Contributed Talk 1** - [Zeroth-Order Optimization at the Edge of Stability](https://openreview.net/forum?id=InkMd89Pju) |
