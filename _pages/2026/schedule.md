@@ -33,7 +33,7 @@ See also the full schedule on the [ICLR website](https://iclr.cc/virtual/2026/wo
 | 11:45 - 12:30 | **Poster Session 1** |
 | 12:30 - 13:30 | **Lunch Break** |
 | 13:30 - 14:00 | **Invited talk 4** - [Richard Baraniuk](https://richb.rice.edu/) (Rice University & OpenStax) : *The science of self-consuming loops in AI* |
-| 14:00 - 14:30 | **Invited talk 5** - [Matthieu Wyart](https://physics-astronomy.jhu.edu/directory/matthieu-wyart/) (Johns Hopkins University & EPFL) |
+| 14:00 - 14:30 | **Invited talk 5** - [Matthieu Wyart](https://physics-astronomy.jhu.edu/directory/matthieu-wyart/) (Johns Hopkins University & EPFL): *Deriving Neural Scaling Laws from the statistics of natural language* |
 | 14:30 - 15:00 | **Coffee Break** |
 | 15:00 - 16:00 | **Panel Discussion**: [Jeremy Cohen](https://jmcohen.github.io/), [Julia Kempe](https://cims.nyu.edu/~kempe/), [David Bau](https://baulab.info/), [Richard Baraniuk](https://richb.rice.edu/), [Matthieu Wyart](https://physics-astronomy.jhu.edu/directory/matthieu-wyart/) |
 | 16:00 - 16:15 | **Challenge Winners Announcement** |
